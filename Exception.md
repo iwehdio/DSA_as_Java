@@ -22,27 +22,7 @@
   1. Stack_Array：错误16：栈为空。
   2. Stack_Array：错误17：栈溢出。
 
-
-
-
-
-
-
-- tips：
-
-  - Java中的枚举：
-
-    ```java
-    //创建
-    enum checkFlag {
-        PREV, NEXT, BOTH
-    }
-    checkFlag flag;
-    //判等，用 == 也可以
-    boolean b = checkFlag.PREV.equals(flag);
-    //更多见https://www.cnblogs.com/singlecodeworld/p/9887926.html
-    ```
-
-  - Java中方法没有传入的默认参数，一般用重载实现这个需求。
-
-  - 
+- Queue：
+  1. Queue_Array：错误18：队列为空。
+  2. Queue_Array：错误19：队列溢出。
+  3. Deque_DLNode：错误20：双端队列为空。

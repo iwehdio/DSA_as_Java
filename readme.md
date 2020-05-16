@@ -17,6 +17,7 @@
      - [二叉树理论部分](https://www.cnblogs.com/iwehdio/p/12332067.html)
   6. 图。
      - [图的理论部分](https://www.cnblogs.com/iwehdio/p/12356299.html)
+- 异常说明：Exception.md
 
 ----
 
